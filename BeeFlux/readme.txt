@@ -9,4 +9,4 @@ Then start spyder:
 	
 	spyder
 	
-Navigate to and run cv_test!
+Navigate to and run beeflux.py
